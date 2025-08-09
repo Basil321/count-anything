@@ -6,7 +6,7 @@
 ### Team Name: Solo Developer
 
 ### Team Members
-- Individual Participant: [Your Name] - College of Engineering Munnar
+- Individual Participant: [BasilEliyas] - College of Engineering Munnar
 
 ### Project Description
 CountAnything AI is an advanced object counting system that uses multiple computer vision algorithms, AI models, and stunning UI themes to count any object in real-time or from uploaded images. From rice grains to coins, hair strands to general objects - if it exists, we can count it with ridiculous precision and beautiful visualizations.
