@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-08-09T03:21:30.293354",
+  "object_type": "hair",
+  "detection_mode": "precise",
+  "total_frames": 9405,
+  "total_objects": 1435721,
+  "avg_objects_per_frame": 152.65507708665604,
+  "avg_confidence": 0.5275623063143745,
+  "avg_fps": 8.939024184276876,
+  "calibrated": false
+}

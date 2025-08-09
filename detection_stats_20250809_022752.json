@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-09T02:27:52.924265",
+  "object_type": "rice",
+  "total_frames": 4925,
+  "total_objects": 43325,
+  "avg_objects_per_frame": 8.796954314720812,
+  "avg_confidence": 0.5355775269717219,
+  "avg_fps": 26.795130508966462
+}

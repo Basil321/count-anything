@@ -1,0 +1,109 @@
+{
+  "session_info": {
+    "timestamp": "2025-08-09T03:51:58.092576",
+    "duration_seconds": 360.494211,
+    "object_type": "hair",
+    "detection_mode": "ultimate",
+    "ui_theme": "dark",
+    "optimization_level": "high"
+  },
+  "detection_stats": {
+    "total_frames": 182,
+    "total_objects": 71604,
+    "avg_objects_per_frame": 393.42857142857144,
+    "peak_count": 691,
+    "avg_confidence": 0.38480131657726907,
+    "objects_per_second": 236.2379002733647
+  },
+  "performance_stats": {
+    "avg_fps": 0.6695400915435634,
+    "avg_processing_time": 1.7817953680897807,
+    "max_fps": 1.1664430806233983,
+    "min_fps": 0.3705090222699093
+  },
+  "algorithm_info": {
+    "weights": {
+      "threshold": 0.23923444976076558,
+      "gabor": 0.19138755980861247,
+      "color": 0.15789473684210528,
+      "edge": 0.14354066985645933,
+      "hough": 0.1722488038277512,
+      "existing_models": 0.09569377990430623
+    },
+    "parameters": {
+      "min_area": 2,
+      "max_area": 800,
+      "min_circularity": 0.1,
+      "blur_kernel": [
+        3,
+        3
+      ],
+      "morph_kernel": [
+        2,
+        2
+      ],
+      "adaptive_block": 9,
+      "adaptive_c": 2,
+      "bilateral_d": 5,
+      "bilateral_sigma": 50,
+      "gabor_params": [
+        [
+          17,
+          6.0,
+          0.5235987755982988,
+          3.141592653589793,
+          0.3,
+          0
+        ]
+      ],
+      "color_ranges": [
+        {
+          "lower": "[0 0 0]",
+          "upper": "[180 255 100]"
+        }
+      ],
+      "edge_params": {
+        "low": 30,
+        "high": 100
+      },
+      "hough_params": {
+        "dp": 1,
+        "min_dist": 5,
+        "param1": 30,
+        "param2": 20,
+        "min_radius": 1,
+        "max_radius": 20
+      }
+    },
+    "calibrated": true,
+    "features_enabled": {
+      "recording": false,
+      "video_writer": null,
+      "auto_calibration": true,
+      "motion_detection": true,
+      "noise_reduction": true,
+      "edge_enhancement": true,
+      "multi_threading": true,
+      "gpu_acceleration": false,
+      "real_time_analytics": true,
+      "auto_save": true,
+      "smart_crop": true,
+      "zoom_tracking": false
+    }
+  },
+  "ui_settings": {
+    "theme": "dark",
+    "state": {
+      "show_overlay": true,
+      "show_stats": true,
+      "show_confidence": true,
+      "show_bounding_boxes": true,
+      "show_contours": true,
+      "show_grid": false,
+      "show_crosshair": false,
+      "overlay_opacity": 0.8,
+      "animation_enabled": true,
+      "particle_effects": true
+    }
+  }
+}
